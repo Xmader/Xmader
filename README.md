@@ -1,4 +1,5 @@
-## Hi there 👋
+![Xmader's GitHub Stats](https://github-star-stats.vercel.app/api?username=Xmader&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,followers&hide=issues,contribs&cache_seconds=1800)
+
 
 <!--
 **Xmader/Xmader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
